@@ -7623,7 +7623,7 @@ button.close {
 .carousel-indicators {
     position: absolute;
     bottom: 10px;
-    left: 50%;
+    left: 90%;
     z-index: 15;
     width: 60%;
     padding-left: 0;
